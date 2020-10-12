@@ -30,6 +30,7 @@ ReadTXStatus	KEYWORD2
 dtsFT897D	KEYWORD2
 GetOperatingMode	KEYWORD2
 GetFrequency  KEYWORD2
+SMValue KEYWORD2
 #######################################
 # Constants (LITERAL1)
 #######################################
