@@ -58,7 +58,7 @@ struct TRX_Status {
 	bool	unused	: 1;
 	bool	Discr	: 1;
 	bool	Code	: 1;
-	bool	NR	: 1;
+	bool	SQL	: 1;
 };
 
 struct TTX_Status {
