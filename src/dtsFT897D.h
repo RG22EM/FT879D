@@ -58,7 +58,7 @@ struct TRX_Status {
 	bool	unused	: 1;
 	bool	Discr	: 1;
 	bool	Code	: 1;
-	bool	NR		: 1;
+	bool	NR	: 1;
 };
 
 struct TTX_Status {
@@ -66,7 +66,7 @@ struct TTX_Status {
 	bool    unused		: 1;
 	bool	Split		: 1;
 	bool	SWR		: 1;
-	bool	PTT	: 1;
+	bool	PTT		: 1;
 };
 
 const uint8_t CMD_LOCK_ON	= 0x00;		// блокировка вкл/выкл
