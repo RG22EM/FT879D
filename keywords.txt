@@ -25,13 +25,20 @@ ToggleVFO	KEYWORD2
 SetDCSMode	KEYWORD2
 SetCTCSSToneFreq	KEYWORD2
 SetDCSCode	KEYWORD2
+SetOperatingMode  KEYWORD2
 ReadRXStatus	KEYWORD2
 ReadTXStatus	KEYWORD2
 dtsFT897D	KEYWORD2
 GetOperatingMode	KEYWORD2
 GetFrequency  KEYWORD2
 SMValue KEYWORD2
-PowerValue  KEYWORD2 
+Discr KEYWORD2
+Code  KEYWORD2
+NR  KEYWORD2
+PowerValue  KEYWORD2
+Split KEYWORD2
+SWR KEYWORD2
+PTT KEYWORD2
 #######################################
 # Constants (LITERAL1)
 #######################################
